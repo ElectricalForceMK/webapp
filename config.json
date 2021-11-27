@@ -36,17 +36,22 @@
   ],
   "socials": [
     {
-      "social_name": "Website",
+      "social_name": "Website1",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61027.png",
+      "social_url": "https://solodroid.net/demo/your_single_radio/page.html"
+    },
+	{
+      "social_name": "Website2",
       "social_icon": "https://image.flaticon.com/icons/png/512/61/61027.png",
       "social_url": "https://solodroid.net/demo/your_single_radio/page.html"
     },
     {
-      "social_name": "Facebook",
+      "social_name": "Website3",
       "social_icon": "https://image.flaticon.com/icons/png/512/61/61045.png",
       "social_url": "https://www.facebook.com/solodroid.net"
     },
     {
-      "social_name": "Twitter",
+      "social_name": "Facebook",
       "social_icon": "https://image.flaticon.com/icons/png/512/60/60580.png",
       "social_url": "https://twitter.com/solodroiddev"
     },
